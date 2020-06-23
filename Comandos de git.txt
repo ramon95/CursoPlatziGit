@@ -1,0 +1,2 @@
+git rm borra el archivo de la memoria ram
+git rm --cached lo borra de la cache
